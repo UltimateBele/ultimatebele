@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am Leon Stieben, a 19-year-old computer science student at TU Dortmund.  
+I am Leon Stieben, a 20-year-old computer science student at TU Dortmund.  
 As a kid, I didn’t dream of being a king or an astronaut, but of being able to program everything I imagined.  
 I still have a long way ahead, but I am passionate about learning something new every day.
 
-- 🔭 I’m currently working on **Raily** in a team of 6, aiming to revolutionize the gastronomy industry.  
+- 🔭 I’m currently working on a **Property Workflow Website**.  
 - 🌱 I’m currently learning **full-stack web development**, and I’m always open to learning more.  
 - 👯 I’m looking to collaborate on exciting projects where I can gain more experience.  
 - 💬 Ask me about anything you’d like!  
